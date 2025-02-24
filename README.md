@@ -4,7 +4,7 @@ This is a simple shell script to download the weather Canada data available onli
 and calculate the average temparatures for the first day of each month aggregated 
 across years.
 
-This is for Halifax, NS, Canada. It shows the aggregates for the years 2000 to 2004 inclusive. But you can easily change it for any other location and year range. Look in the script for hints on how to do that.
+This is for Halifax, NS, Canada. It shows the aggregates for the years 2000 to 2024 inclusive. But you can easily change it for any other location and year range. Look in the script for hints on how to do that.
 
 The code requires the [csvq command](https://mithrandie.github.io/csvq/), which 
 provides a SQL like query over CSV files.
