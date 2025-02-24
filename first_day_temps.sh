@@ -1,5 +1,8 @@
 #!/bin/bash
 #
+# SPDX-FileCopyrightText: © 2024 Don Laidlaw <don@donlaidlaw.ca>
+# SPDX-License-Identifier: MIT License
+#
 # Calculates the average daily low and high temparatures for the first of each month.
 # Uses the government of Canada historical weather data. 
 #
